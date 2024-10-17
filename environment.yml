@@ -9,4 +9,4 @@ dependencies:
   - matplotlib
   - numpy
   - jupyterlab
-  - cling
+  - xeus-cling
