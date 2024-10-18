@@ -1,4 +1,4 @@
-name: iqb-2024
+name: cling-codespace
 channels:
   - conda-forge
   - defaults
@@ -9,4 +9,3 @@ dependencies:
   - matplotlib
   - numpy
   - jupyterlab
-  - xeus-cling

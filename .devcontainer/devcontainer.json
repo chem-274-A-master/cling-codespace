@@ -18,7 +18,8 @@
 					"python.defaultInterpreterPath": "/opt/conda/bin/python",
 					"python.languageServer": "Pylance"
 				}
-		}
+		}, 
+		"postCreateCommand": "conda install -c conda-forge xeus-cling -y"
 	}
 
 
